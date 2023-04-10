@@ -1,8 +1,8 @@
-# SnapQuest Privacy Policy
+# Poukidex Privacy Policy
 
 _Last updated: April 10, 2023_
 
-This privacy policy explains how SnapQuest ("we," "us," or "our") collects, uses, shares, and protects information in relation to our mobile application ("App"). By using our App, you agree to the collection, use, and sharing of information in accordance with this privacy policy.
+This privacy policy explains how Poukidex ("we," "us," or "our") collects, uses, shares, and protects information in relation to our mobile application ("App"). By using our App, you agree to the collection, use, and sharing of information in accordance with this privacy policy.
 
 ## Information Collection and Use
 
@@ -10,7 +10,7 @@ This privacy policy explains how SnapQuest ("we," "us," or "our") collects, uses
 
 We collect the following information you provide when using our App:
 
-1. **Account information**: When you create an account with SnapQuest, we collect your username, email address, and a password.
+1. **Account information**: When you create an account with Poukidex, we collect your username, email address, and a password.
 2. **User content**: When you participate in collections, quests, and community voting, we collect information about the content you submit, such as photos, descriptions, and comments.
 3. **Communications**: If you contact us directly, we may receive additional information about you, such as your name, email address, and the contents of your message.
 
